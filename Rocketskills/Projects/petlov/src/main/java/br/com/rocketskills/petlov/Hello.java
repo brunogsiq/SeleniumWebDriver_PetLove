@@ -1,4 +1,4 @@
-package br.com.rocketskills.petlov;
+package Rocketskills.Projects.petlov.src.main.java.br.com.rocketskills.petlov;
 
 class Hello {
 	static public void main(String args[]) {

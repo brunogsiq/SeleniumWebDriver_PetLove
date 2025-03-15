@@ -1,4 +1,4 @@
-package br.com.rocketskills.petlov;
+package Rocketskills.Projects.petlov.src.test.java.br.com.rocketskills.petlov;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
